@@ -152,23 +152,13 @@ https://github.com/Mir040/aimlFin2026_m_karukhnishvili25/blob/task_3/analyse_out
 
 Follow these steps:
 
-1.  Save Python code as `analyse.py`
-2.  Place logs.txt in:
+Steps to Reproduce:
 
-```{=html}
-<!-- -->
-```
-    C:\Users\miro\Desktop\finalexam\task_3\logs.txt
+Place logs.txt and the script in the task_3 folder.
 
-3.  Run using Python 3.x:
+Run the script using the standard Python interpreter.
 
-```{=html}
-<!-- -->
-```
-    python analyse.py
-
-4.  Run visualization script to generate graphs.
-
+The script will calculate the regression model and display the output in the terminal.
 ------------------------------------------------------------------------
 
 ## 7. Conclusion
