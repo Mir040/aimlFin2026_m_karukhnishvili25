@@ -144,7 +144,7 @@ if __name__ == "__main__":
 ## 5. Visualization Code
 
 The code provides a Text-Based Visualization (Histogram). This allows the reader to see the traffic distribution directly in the terminal:
-
+https://github.com/Mir040/aimlFin2026_m_karukhnishvili25/blob/task_3/analyse_output.png
 
 ------------------------------------------------------------------------
 
