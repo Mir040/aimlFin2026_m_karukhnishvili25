@@ -15,7 +15,7 @@ that functions in restricted environments.
 The analyzed logs are stored in the project repository for auditing and
 reproduction:
 
-**Log File:** logs.txt
+**Log File:** https://github.com/Mir040/aimlFin2026_m_karukhnishvili25/blob/task_3/logs.txt
 
 ------------------------------------------------------------------------
 
